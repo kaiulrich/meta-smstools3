@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://LICENSE;md5=4d21efa1bb2a186360dde4035f860682"
 HOMEPAGE = "http://smstools3.kekekasvi.com"
 
 SRC_URI = "http://smstools3.kekekasvi.com/packages/${PN}-${PV}.tar.gz;name=tarball \
-           file://sms3_build_path.patch;name=patch"
+           file://sms3_bin_path.patch;name=patch"
 
 SRC_URI[tarball.md5sum] = "0241ef60e646fac1a06254a848e61ed7"
 SRC_URI[tarball.sha256sum] = "ed00ffaeaa312a5b4f969f4e97a64603a866bbe16e393ea02f5bf05234814d59"
