@@ -37,6 +37,4 @@ do_install () {
 	install -d ${D}${sysconfdir}/init.d
 	install -m 644 ${S}/scripts/sms3 "${D}${sysconfdir}/init.d/sms3"
 
-	
-
 }
