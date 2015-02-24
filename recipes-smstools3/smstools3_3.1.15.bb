@@ -39,6 +39,6 @@ do_install () {
 	install -d "${D}${localstatedir}/spool/sms/checked"
 
 	install -d ${D}${sysconfdir}/init.d
-	install -m 755 ${S}/scripts/sms3 "${D}${sysconfdir}/init.d/sms3"
+	install -m 755 ${S}/scripts/sms3 "${D}${sysconfdir}/init.d/${INITSCRIPT_NAME}"
 
 }
