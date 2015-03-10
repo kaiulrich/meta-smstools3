@@ -4,7 +4,9 @@ http://smstools3.kekekasvi.com/
 
 
 ## Help
-If yo have any questions to configure smstools3 please view the manual or visit the forum on  http://smstools3.kekekasvi.com/
+If yo have any questions to configure smstools3 please  
+* view the manual http://smstools3.kekekasvi.com/
+* visit the forum on http://smstools3.kekekasvi.com/board.php
  
 
 ##Installation
