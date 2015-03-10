@@ -21,7 +21,7 @@ IMAGE_INSTALL_append = " smstools3 ssh-server-dropbear"
 
 ##Successful tested on:
 
-* meta-raspberrypi with a Huawei Technologies Co., Ltd. E169 HSDPA Modem
+meta-raspberrypi with a Huawei Technologies Co., Ltd. E169 HSDPA Modem
 
 smsd.conf:
 
