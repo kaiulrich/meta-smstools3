@@ -1,5 +1,11 @@
 # meta-smstools3
 yocto / openembedded smstools3 layer
+http://smstools3.kekekasvi.com/
+
+
+## Help
+If yo have any questions to configure smstools3 please view the manual or visit the forum on  http://smstools3.kekekasvi.com/
+ 
 
 ##Installation
 
